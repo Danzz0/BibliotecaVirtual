@@ -71,22 +71,6 @@ BibliotecaVirtual é uma aplicação web desenvolvida com Node.js e Express que 
 - jQuery
 - SweetAlert2
 
-## Contribuição
-
-1. Faça um fork do projeto.
-2. Crie uma nova branch:
-    ```sh
-    git checkout -b minha-nova-funcionalidade
-    ```
-3. Faça suas alterações e commit:
-    ```sh
-    git commit -am 'Adiciona nova funcionalidade'
-    ```
-4. Envie para o repositório remoto:
-    ```sh
-    git push origin minha-nova-funcionalidade
-    ```
-5. Abra um Pull Request.
 
 ## Licença
 
