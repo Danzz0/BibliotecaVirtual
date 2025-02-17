@@ -2,9 +2,9 @@
 
 ## Descrição
 
-BibliotecaVirtual é uma aplicação web desenvolvida com Node.js e Express que permite gerenciar autores e suas nacionalidades. A aplicação permite adicionar, editar, listar e excluir autores, bem como listar nacionalidades.
+BibliotecaVirtual é uma aplicação web desenvolvida com Node.js e Express que permite gerenciar autores e suas nacionalidades. A aplicação permite adicionar, editar, listar e excluir autores, bem como listar nacionalidades. Este projeto foi desenvolvido em contexto acadêmico e foi inspirado no projeto do canal do professor [Fábio Augusto Procópio](https://www.youtube.com/c/Proc%C3%B3pionaRede), onde este ensina criar esse mesmo projeto do zero.
 
-## Instalação
+## Instruções de instalação
 
 1. Clone o repositório para sua máquina local:
     ```sh
@@ -24,8 +24,8 @@ BibliotecaVirtual é uma aplicação web desenvolvida com Node.js e Express que 
 ## Configuração do Banco de Dados
 
 1. Certifique-se de ter o MySQL instalado e em execução.
-2. Crie um banco de dados chamado `dbbiblioteca`.
-3. Configure as credenciais do banco de dados no arquivo [db.js].
+2. Importe o banco de dados chamado `dbbiblioteca`.
+3. Caso necessário, configure as credenciais do banco de dados no arquivo [db.js].
 
 ## Executando a Aplicação
 
@@ -72,8 +72,10 @@ BibliotecaVirtual é uma aplicação web desenvolvida com Node.js e Express que 
 - SweetAlert2
 
 
-## Licença
+## Referências
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-
+- [Site do professor procópio](https://sites.google.com/view/procopio-na-rede)
+- [BD criado pelo professor para importar](https://drive.google.com/file/d/1U5hTs0O3JY8hIUNGkPnDHN84tDejEJbZ/view)
+- [Como criar o projeto](https://www.youtube.com/watch?v=OWmDXKUzeTU&list=PLqsF5rntN2nbanvxinF3twZM568NvNzKj)
+- [SweetAlert](https://sweetalert2.github.io/)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
